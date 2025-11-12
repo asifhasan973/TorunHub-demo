@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.example
+*.log
+.DS_Store
+README.md
+*.sh
+test-google-sheets.js
+sync-firebase-user.js
+seed-products.js
+set-admin.js

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs>
+    <linearGradient id="appleTouchGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a2a2a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with rounded corners for iOS -->
+  <rect width="180" height="180" fill="url(#appleTouchGrad)" rx="40"/>
+  
+  <!-- Monogram TH -->
+  <g fill="#ffffff" font-family="'Playfair Display', serif" font-weight="700" font-size="100">
+    <text x="90" y="125" text-anchor="middle">TH</text>
+  </g>
+  
+  <!-- Decorative underline -->
+  <rect x="40" y="135" width="100" height="3" fill="#ffffff" opacity="0.8"/>
+  
+  <!-- Small brand elements -->
+  <circle cx="150" cy="35" r="4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="30" cy="150" r="3" fill="#ffffff" opacity="0.5"/>
+</svg>
