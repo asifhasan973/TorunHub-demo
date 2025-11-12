@@ -4,8 +4,7 @@
 
 ## 🌐 Live Demo
 
-**Live Site**: [https://torunhub-demo.vercel.app/](https://torunhub-demo.vercel.app/)  
-**Main Production Site**: [https://www.torunhut.com/](https://www.torunhut.com/)
+**Live Site**: [https://torunhub-demo.vercel.app/](https://torunhub-demo.vercel.app/)
 
 ### Demo Admin Credentials
 
